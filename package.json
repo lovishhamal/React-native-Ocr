@@ -1,0 +1,19 @@
+{
+  "name": "imageDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-ocrad": "^0.0.2",
+    "express": "^4.17.1",
+    "images-pdf": "^1.0.3",
+    "multer": "^1.4.2",
+    "tesseract.js": "^2.1.1"
+  }
+}
